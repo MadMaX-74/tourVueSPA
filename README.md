@@ -1,4 +1,5 @@
-# tours
+# simple SPA on Vue 2
+#use vue cli, vue, vue-router, vue-filters, dinamic page
 
 ## Project setup
 ```
